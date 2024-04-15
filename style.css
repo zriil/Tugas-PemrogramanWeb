@@ -1,0 +1,95 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+body{
+    margin: 10px 20% 10px 20%;
+    background-color: #e8eaeb;
+    font-family: Arial, sans-
+}
+.container{
+    background-color: #f7fcfe;
+    padding: 50px;
+    box-shadow: 0 10px 10px 0 black;
+}
+.heading{
+    text-align: center;
+    font-weight: 600;
+    line-height: 30px;
+    font-size: x-large;
+}
+.foto{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.nis{
+    width: 200px;
+    height: 25px;
+    border: 2px solid black;
+    font-size: medium;
+}
+.pas-foto{
+    width: 150px;
+    height: 170px;
+    border: 2px solid black;
+    font-size: medium;
+    align-content: center;
+}
+.label-nama{
+    font-weight: 550;
+}
+table{
+    /* border: solid 1px  black; */
+    width: 100%;
+    margin: 50px 0 20px 0 ;
+}
+tr{
+    height: 50px;
+}
+td{
+
+}
+table tr td {
+    /* border: solid black 1px; */
+    border-collapse: collapse ;
+
+}
+.input{
+    text-align: left;
+    padding-left: 30px;
+}
+input[type=text]{
+    border: none;
+    border-bottom: solid black 1px;
+    background: none;
+    width: 550px;
+    outline: none;
+}
+.Hari-Kursus{
+}
+label{
+
+}
+.NB{
+    margin-top: 20px;
+}
+.informasi-tambahan{
+    flex-wrap: wrap;
+    line-height: 25px;
+}
+.end-form{
+    width: 100%;
+    text-align: right;
+    margin-right: 20px;
+}
+.tempat{
+    margin: 15px 0 100px 0;
+}
+.copyright{
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+    font-weight: 700;
+}
